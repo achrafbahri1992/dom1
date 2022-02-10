@@ -1,0 +1,202 @@
+#logo {
+   color: orangered;
+}
+#search{
+    
+    height: 30px;
+    width: 230px;
+     margin-top: 30px;
+    /* margin-right: 100px;  */
+} 
+ul{
+    list-style: none;
+    display: flex;
+    margin: auto;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1D1D1D;
+    border-bottom: orangered solid;
+   position: fixed;
+   margin-top: -10px;
+   width: 100%;
+
+}
+li{
+    margin: 10px;
+}
+#acc{
+    color: white;
+    font-size: 30px;
+    
+}
+.cntrl{
+    
+    margin-left: 100px;
+    
+    
+    
+}
+.btn1{
+    margin-top: 30px;
+    height: 30px;
+}
+.menu{
+    font-family: roboto, arial, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    color: white;
+
+}
+img{
+    height:  278px;
+    width: 309px;
+    border-radius: 50%;
+    
+    }
+
+.items:hover{
+    
+    color: orangered;
+}
+.titre{
+    margin-left: 100px;
+    font-family: Comforter, arial, sans-serif ;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 25px;
+    color: white;
+}
+#acc{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.iphone{
+    height: 300px;
+    width:309px ;
+    border-radius: 50%;
+    background-color: #1D1D1D;
+    }
+    .desc{
+        display: flex;
+        
+        
+    }
+    #plus{
+        margin-top: 18px;
+        margin-left: 20px;
+        color: green;
+    }
+#mines{
+    margin-top: 17px;
+    color: green;
+}
+.addqte p{
+    padding: 4px;
+   margin-top: 15px;
+}
+.addqte{
+    display: flex;
+    margin-left: 80px;
+    font-family: Roboto,arial, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 20px;
+    color: white;
+    
+}
+.addtocart{
+    height: 30px;
+    width: 150px;
+    margin-left: 70px;
+    background-color: #D6B994;
+    border-radius: 10px;
+    color: wheat;
+    font-family: Roboto,arial, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    color: black;
+}
+.section1{
+    display: flex;
+    justify-content: space-around;
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+body{
+    height: 100%;
+    background-color: #1D1D1D;
+}
+.plus{
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    margin-top: 18px;
+        margin-left: 10px;
+        font-size: 15px;
+        text-align: center;
+       
+        padding: -0px;
+        border-radius: 50%;
+        color: white;
+        background-color: green;
+}
+.mines{
+    height: 20px;
+    width: 20px;
+    margin-top: 18px;
+    border-radius: 50%;
+    padding: 0px;
+    color: white;
+        background-color: green;
+
+}
+.panel{
+    height: 35px;
+    margin-left:590px;
+    background-color: #D6B994;
+    border-radius: 10px;
+    color: wheat;
+    font-family: Roboto,arial, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    color: black;
+}
+.popup{
+    height: 450px;
+    width: 800px;
+    background-color: bisque;
+    margin-left: 20%;
+    margin-top: -500px;
+    position: absolute;
+    display: none;
+    
+    
+}
+.mytable, th, td{
+    border: 1px solid;
+    text-align: center;
+    width: 800px;
+    
+    color: #1D1D1D;
+}
+.price{
+   margin-left: 40px; 
+   font-size: 20px;
+} 
+.name{
+    font-family: Roboto,arial, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 20px;
+    color: black;
+    width: 100px;
+
+}
